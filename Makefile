@@ -5,4 +5,4 @@ tidy:
 	sed -i "s/        /\t/g" resume.html
 
 pdf: tidy
-	wkhtmltopdf -g --margin-bottom 6mm --margin-top 10mm --margin-left 10mm --margin-right 10mm resume.html resume.pdf
+	wkhtmltopdf -g --margin-bottom 6mm --margin-top 5mm --margin-left 10mm --margin-right 10mm resume.html resume.pdf
