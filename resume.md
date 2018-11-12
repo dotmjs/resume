@@ -54,35 +54,35 @@ Latest résumé always available at http://forsetti.com.
     
 ### January 2000 - January 2013: University ITS, University of Connecticut, Storrs CT ###
 #### Manager of Linux & Virtualization Team (September 2010 - January 2013) ####
-- Proposed and was given leadership of a newly created 10-member team in September 2010. Team responsible for:
-	- Architecture, implementation, and production oversight of new on-premise Infrastructure-as-a-Service built on IBM Blade Centers, VMware VSphere 5, and Red Hat Enterprise Virtualization.
-	- Physical and virtual Red Hat Enterprise Linux and Debian Linux Infrastructure-as-a-Service, automated via Kickstart/PXE and managed with Red Hat Satellite and Zabbix, and consolidation of unmanaged legacy Red Hat, SuSE, Debian, and Ubuntu servers.
-	- Web site and application hosting for individuals, departments, and the enterprise using Apache, PHP, Tomcat, Glassfish, and MySQL, serving two million requests/day, and consolidation of legacy Glassfish, Tomcat, and SpringSource tcServer installations.
-	- Authentication, authorization, and user provisioning technologies in support of access into University services, leveraging MIT Kerberos, OpenLDAP, Jasig CAS, Shibboleth, and several thousand lines of locally developed C, Java, Perl, and Python; and expanded Federated Identity service to third-party services through new membership in InCommon Federation.
-	- Mail infrastructure including Cyrus IMAP, Squirrelmail, Sendmail, Postfix, Barracuda Spam appliances, and locally developed alias management application, providing 35,000 mailboxes and filtering/routing one million emails/day, and implementation of new Google Apps for Education service for students, including negotiation of contract and development of migration process.
-	- Hosting of other University services, such as the Enterprise Learning Management Blackboard solution, the Open Source Kuali Financials ERP, CA Unicenter Service Desk, and dozens of academic and administrative services.
-	- Introduction of new storage service, including acquisition and deployment of 1/2 petabyte NAS solution, and development of cost and sevice model to make available to University researchers.
+Proposed and was given leadership of a newly created 10-member team in September 2010. Team responsible for:
+- Architecture, implementation, and production oversight of new on-premise Infrastructure-as-a-Service built on IBM Blade Centers, VMware VSphere 5, and Red Hat Enterprise Virtualization.
+- Physical and virtual Red Hat Enterprise Linux and Debian Linux Infrastructure-as-a-Service, automated via Kickstart/PXE and managed with Red Hat Satellite and Zabbix, and consolidation of unmanaged legacy Red Hat, SuSE, Debian, and Ubuntu servers.
+- Web site and application hosting for individuals, departments, and the enterprise using Apache, PHP, Tomcat, Glassfish, and MySQL, serving two million requests/day, and consolidation of legacy Glassfish, Tomcat, and SpringSource tcServer installations.
+- Authentication, authorization, and user provisioning technologies in support of access into University services, leveraging MIT Kerberos, OpenLDAP, Jasig CAS, Shibboleth, and several thousand lines of locally developed C, Java, Perl, and Python; and expanded Federated Identity service to third-party services through new membership in InCommon Federation.
+- Mail infrastructure including Cyrus IMAP, Squirrelmail, Sendmail, Postfix, Barracuda Spam appliances, and locally developed alias management application, providing 35,000 mailboxes and filtering/routing one million emails/day, and implementation of new Google Apps for Education service for students, including negotiation of contract and development of migration process.
+- Hosting of other University services, such as the Enterprise Learning Management Blackboard solution, the Open Source Kuali Financials ERP, CA Unicenter Service Desk, and dozens of academic and administrative services.
+- Introduction of new storage service, including acquisition and deployment of 1/2 petabyte NAS solution, and development of cost and sevice model to make available to University researchers.
 #### Interim Manager of Server Support (July 2009 - August 2010) ####
-- Due to organizational changes, was asked to temporarily fill a functional management position. Accepted interim position with stipulation that responsibilities would be temporary, with rapid return to strategic/technical role. Provided management leadership to the three existing highly-functional teams and three new teams totaling 25 members.
-	- Unix Team, hosting the University's PeopleSoft and Oracle solution on AIX, the Blackboard ELM solution on Solaris, and a variety of services such as DNS, web hosting, application hosting, podcasting, and email routing and filtering on Linux.
-	- Mainframe Team, maintaining a new IBM z10 mainframe, running MVS(zOS)/VM and all Mainframe security, printing, scheduling, backups, and software management, consolidating from IBM T16 and z890 Mainframes, and providing zVM virtual hosting of Linux guests.
-	- Windows Team, maintaining a variety of services such as as Active Directory, Exchange, file services, document management services, and numerous departmental services.
-	- Virtualization Team, a newly formed team responsible for the new Infrastrucutre as a Service environment, providing physical and virtual hosting for the Windows and Linux teams.
-	- Middleware Team, a newly formed team responsible for "Application Middleware" including Tomcat and Glassfish application servers, and "Identity and Access Management Middleware" including OpenLDAP directories, MIT Kerberos, and CAS Web Initial Sign-On solutions.
-	- R&D Team, a newly formed team responsible for researching future technologies and developing innovative integration solutions to immediate needs.
+Due to organizational changes, was asked to temporarily fill a functional management position. Accepted interim position with stipulation that responsibilities would be temporary, with rapid return to strategic/technical role. Provided management leadership to the three existing highly-functional teams and three new teams totaling 25 members.
+- Unix Team, hosting the University's PeopleSoft and Oracle solution on AIX, the Blackboard ELM solution on Solaris, and a variety of services such as DNS, web hosting, application hosting, podcasting, and email routing and filtering on Linux.
+- Mainframe Team, maintaining a new IBM z10 mainframe, running MVS(zOS)/VM and all Mainframe security, printing, scheduling, backups, and software management, consolidating from IBM T16 and z890 Mainframes, and providing zVM virtual hosting of Linux guests.
+- Windows Team, maintaining a variety of services such as as Active Directory, Exchange, file services, document management services, and numerous departmental services.
+- Virtualization Team, a newly formed team responsible for the new Infrastrucutre as a Service environment, providing physical and virtual hosting for the Windows and Linux teams.
+- Middleware Team, a newly formed team responsible for "Application Middleware" including Tomcat and Glassfish application servers, and "Identity and Access Management Middleware" including OpenLDAP directories, MIT Kerberos, and CAS Web Initial Sign-On solutions.
+- R&D Team, a newly formed team responsible for researching future technologies and developing innovative integration solutions to immediate needs.
 #### Identity & Access Management Architect and Administrator (2001 - January 2013) ####
-- Multiple strategic Identity and Access Management technologies designed and deployed
-	- 2001: Designed and deployed the University's first-generation iPlanet LDAP and MIT Kerberos in 2001 and second-generation OpenLDAP services in 2003. Developed provisioning solution in Perl and Java to manage user entries in LDAP and Kerberos.
-	- 2001: Responsible for developing strategy for expansion of Identity & Access Management solution and maintaining current solution including MIT Kerberos, OpenLDAP, Jasig CAS, and several locally developed provisioning solutions in C, Java, Perl, and Python.
-	- 2006: Deployed UConn's first Web Initial Sign-On solution, Jasig CAS. Contributed the "JAASAuthenticationHandler" to meet local requirement for multiple authentication sources. Co-maintainer of mod_auth_cas, the official Jasig CAS Apache module. By 2013, more than 400 applications leveraging CAS for SSO.
-	- 2012: Deployed UConn's Shibboleth IdP for federated identity and joined InCommon Federation, immediately providing federated authorization for several academic and library resources.
+Multiple strategic Identity and Access Management technologies designed and deployed
+- 2001: Designed and deployed the University's first-generation iPlanet LDAP and MIT Kerberos in 2001 and second-generation OpenLDAP services in 2003. Developed provisioning solution in Perl and Java to manage user entries in LDAP and Kerberos.
+- 2001: Responsible for developing strategy for expansion of Identity & Access Management solution and maintaining current solution including MIT Kerberos, OpenLDAP, Jasig CAS, and several locally developed provisioning solutions in C, Java, Perl, and Python.
+- 2006: Deployed UConn's first Web Initial Sign-On solution, Jasig CAS. Contributed the "JAASAuthenticationHandler" to meet local requirement for multiple authentication sources. Co-maintainer of mod_auth_cas, the official Jasig CAS Apache module. By 2013, more than 400 applications leveraging CAS for SSO.
+- 2012: Deployed UConn's Shibboleth IdP for federated identity and joined InCommon Federation, immediately providing federated authorization for several academic and library resources.
 #### Team Lead for Windows Server Team (2008 - April 2009) ####
-- Led team of 7 members responsible for all aspects of Microsoft Windows servers, including maintaining the University's central Active Directory and Exchange services, file services, document management services, and several dozen departmental services.
-  - Windows Server Team, Active Directory Administrator (2000 - April 2009) - Joined Windows Server Support team in 2000, providing support for Windows and Novell servers distributed around campus. Co-designed UConn Active Directory in 2000 and developed provisioning solution in Perl to manage user entries and groups.
+Led team of 7 members responsible for all aspects of Microsoft Windows servers, including maintaining the University's central Active Directory and Exchange services, file services, document management services, and several dozen departmental services.
+- Windows Server Team, Active Directory Administrator (2000 - April 2009) - Joined Windows Server Support team in 2000, providing support for Windows and Novell servers distributed around campus. Co-designed UConn Active Directory in 2000 and developed provisioning solution in Perl to manage user entries and groups.
 
 ## Education ##
-- Bachelor of Science in Engineering, Computer Science and Engineering, University of Connecticut, 2000
-  - Top graduate in the School of Computer Science and Engineering.
-	- Graduated Magna Cum Laude, with a 3.6 final GPA.
-	- Course work included Software Engineering, Digital Design, Algorithmic Complexity, Network Theory, Parallel Computing, Compiler Theory, Database Theory, and Artificial Intelligence.
+Bachelor of Science in Engineering, Computer Science and Engineering, University of Connecticut, 2000
+- Top graduate in the School of Computer Science and Engineering.
+- Graduated Magna Cum Laude, with a 3.6 final GPA.
+- Course work included Software Engineering, Digital Design, Algorithmic Complexity, Network Theory, Parallel Computing, Compiler Theory, Database Theory, and Artificial Intelligence.
 
