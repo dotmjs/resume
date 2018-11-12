@@ -71,6 +71,7 @@ Latest résumé always available at http://forsetti.com.
 	- Middleware Team, a newly formed team responsible for "Application Middleware" including Tomcat and Glassfish application servers, and "Identity and Access Management Middleware" including OpenLDAP directories, MIT Kerberos, and CAS Web Initial Sign-On solutions.
 	- R&D Team, a newly formed team responsible for researching future technologies and developing innovative integration solutions to immediate needs.
 #### Identity & Access Management Architect and Administrator (2001 - January 2013) ####
+- Multiple strategic Identity and Access Management technologies designed and deployed
 	- 2001: Designed and deployed the University's first-generation iPlanet LDAP and MIT Kerberos in 2001 and second-generation OpenLDAP services in 2003. Developed provisioning solution in Perl and Java to manage user entries in LDAP and Kerberos.
 	- 2001: Responsible for developing strategy for expansion of Identity & Access Management solution and maintaining current solution including MIT Kerberos, OpenLDAP, Jasig CAS, and several locally developed provisioning solutions in C, Java, Perl, and Python.
 	- 2006: Deployed UConn's first Web Initial Sign-On solution, Jasig CAS. Contributed the "JAASAuthenticationHandler" to meet local requirement for multiple authentication sources. Co-maintainer of mod_auth_cas, the official Jasig CAS Apache module. By 2013, more than 400 applications leveraging CAS for SSO.
